@@ -6,7 +6,7 @@ This repository serves as a **central placeholder** for all documentation, infra
 
 All actual documentation is maintained in the **Wiki pages** of this repository.
 
-👉 Head over to the [Wiki](../../wiki) to browse the full set of information.
+👉 Head over to the [Wiki Home Page](https://github.com/BIOFIN-EU/documentation/wiki/Home-Page) to browse the full set of information.
 
 ---
 
